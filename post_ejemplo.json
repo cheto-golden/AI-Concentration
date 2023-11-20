@@ -1,0 +1,20 @@
+{
+    "data": {
+        "errors": [
+            "En {pos} se detectó {prod} sobrante",
+            "En {pos} se detectó {prod1} en lugar de {prod2}",
+            "En {pos} se detectó {prod1} en lugar de {prod2}",
+            "En {pos} se detectó {prod} faltante",
+            "En {pos} se detectó {prod1} en lugar de {prod2}",
+            "En {pos} se detectó {prod} faltante",
+            "En {pos} se detectó {prod} faltante",
+            "En {pos} se detectó {prod1} en lugar de {prod2}",
+            "En {pos} se detectó {prod} faltante"
+        ],
+        "image": "https://www.kawaiibarcelona.com/wp-content/uploads/2017/12/Gudetama-2016-sigh-1.jpg",
+        "score": 0.22688093674161736
+    },
+    "header": {
+        "Content-Type": "application/json"
+    }
+}
