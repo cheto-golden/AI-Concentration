@@ -1,6 +1,5 @@
-{
-  "data": {
-    "plans": [
+
+   [
       {
         "id": 1,
         "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%201.jpg?token=GHSAT0AAAAAACJUV2VYYBAQCASIHKVW3HASZK2PWPA",
@@ -101,9 +100,5 @@
         "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%2020.jpg?token=GHSAT0AAAAAACJUV2VZNPYPAMV3TYYFEG42ZK2QJ5Q",
         "name": "Planograma 20"
       }
-    ]
-  },
-  "header": {
-    "Content-Type": "application/json"
-  }
-}
+   ]
+
