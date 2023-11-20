@@ -1,107 +1,104 @@
+[
+      {
+        "id": 1,
+        "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%201.jpg?token=GHSAT0AAAAAACJUV2VYYBAQCASIHKVW3HASZK2PWPA",
+        "name": "Planograma 1"
+      },
+      {
+        "id": 2,
+        "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%202.jpg?token=GHSAT0AAAAAACJUV2VYNKOE63O4L3MQGRZ2ZK2P5WA",
+        "name": "Planograma 2"
+      },
+      {
+        "id": 3,
+        "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%203.jpg?token=GHSAT0AAAAAACJUV2VZ7QVMOFZIOVLBTOY6ZK2P7JA",
+        "name": "Planograma 3"
+      },
+      {
+        "id": 4,
+        "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%204.jpg?token=GHSAT0AAAAAACJUV2VZGCJROTHYDKEEMCKUZK2QDRQ",
+        "name": "Planograma 4"
+      },
+      {
+        "id": 5,
+        "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%205.jpg?token=GHSAT0AAAAAACJUV2VZWXYNQEWVXLD66XAKZK2QD3A",
+        "name": "Planograma 5"
+      },
+      {
+        "id": 6,
+        "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%206.jpg?token=GHSAT0AAAAAACJUV2VYYLAY7LEHUOEBCGUYZK2QEDQ",
+        "name": "Planograma 6"
+      },
+      {
+        "id": 7,
+        "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%207.jpg?token=GHSAT0AAAAAACJUV2VZVS3BUYOUTAPDBPOKZK2QELA",
+        "name": "Planograma 7"
+      },
+      {
+        "id": 8,
+        "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%208.jpg?token=GHSAT0AAAAAACJUV2VZIHVQBY5WB5J7VBRMZK2QE3A",
+        "name": "Planograma 8"
+      },
+      {
+        "id": 9,
+        "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%209.jpg?token=GHSAT0AAAAAACJUV2VYTOXSPBERFGV7D2NWZK2QFCA",
+        "name": "Planograma 9"
+      },
+      {
+        "id": 10,
+        "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%2010.jpg?token=GHSAT0AAAAAACJUV2VZWZVFERH33H33QHZ6ZK2QFUA",
+        "name": "Planograma 10"
+      },
+      {
+        "id": 11,
+        "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%2011.jpg?token=GHSAT0AAAAAACJUV2VY6UK3V7EUUUFOXPWEZK2QIYQ",
+        "name": "Planograma 11"
+      },
+      {
+        "id": 12,
+        "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%2012.jpg?token=GHSAT0AAAAAACKF3OHAOCU67JE63CM3KWC2ZK2QJVQ",
+        "name": "Planograma 12"
+      },
+      {
+        "id": 13,
+        "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%2013.jpg?token=GHSAT0AAAAAACKF3OHAAKCWOTD5JAQRQ7BOZK2QKCA",
+        "name": "Planograma 13"
+      },
+      {
+        "id": 14,
+        "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%2014.jpg?token=GHSAT0AAAAAACKF3OHBICSCZURAW26YPNGQZK2QKJA",
+        "name": "Planograma 14"
+      },
+      {
+        "id": 15,
+        "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%2015.jpg?token=GHSAT0AAAAAACKF3OHB2GCBVOQNQHPYB64WZK2QKOQ",
+        "name": "Planograma 15"
+      },
+      {
+        "id": 16,
+        "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%2016.jpg?token=GHSAT0AAAAAACKF3OHBEZ26PEH6IJJ4ZGUOZK2QKVQ",
+        "name": "Planograma 16"
+      },
+      {
+        "id": 17,
+        "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%2017.jpg?token=GHSAT0AAAAAACJUV2VZ5NS54JHQHTPMZSMWZK2QKPQ",
+        "name": "Planograma 17"
+      },
+      {
+        "id": 18,
+        "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%2018.jpg?token=GHSAT0AAAAAACJUV2VYHZILGZXSY7R7QLVYZK2QKJQ",
+        "name": "Planograma 18"
+      },
+      {
+        "id": 19,
+        "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%2019.jpg?token=GHSAT0AAAAAACJUV2VZJABBC3WWUMS6CQ5IZK2QKEA",
+        "name": "Planograma 19"
+      },
+      {
+        "id": 20,
+        "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%2020.jpg?token=GHSAT0AAAAAACJUV2VZNPYPAMV3TYYFEG42ZK2QJ5Q",
+        "name": "Planograma 20"
+      }
+]
 
-{
-   "plan": 
-               [
-                     {
-                       "id": 1,
-                       "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%201.jpg?token=GHSAT0AAAAAACJUV2VYYBAQCASIHKVW3HASZK2PWPA",
-                       "name": "Planograma 1"
-                     },
-                     {
-                       "id": 2,
-                       "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%202.jpg?token=GHSAT0AAAAAACJUV2VYNKOE63O4L3MQGRZ2ZK2P5WA",
-                       "name": "Planograma 2"
-                     },
-                     {
-                       "id": 3,
-                       "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%203.jpg?token=GHSAT0AAAAAACJUV2VZ7QVMOFZIOVLBTOY6ZK2P7JA",
-                       "name": "Planograma 3"
-                     },
-                     {
-                       "id": 4,
-                       "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%204.jpg?token=GHSAT0AAAAAACJUV2VZGCJROTHYDKEEMCKUZK2QDRQ",
-                       "name": "Planograma 4"
-                     },
-                     {
-                       "id": 5,
-                       "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%205.jpg?token=GHSAT0AAAAAACJUV2VZWXYNQEWVXLD66XAKZK2QD3A",
-                       "name": "Planograma 5"
-                     },
-                     {
-                       "id": 6,
-                       "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%206.jpg?token=GHSAT0AAAAAACJUV2VYYLAY7LEHUOEBCGUYZK2QEDQ",
-                       "name": "Planograma 6"
-                     },
-                     {
-                       "id": 7,
-                       "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%207.jpg?token=GHSAT0AAAAAACJUV2VZVS3BUYOUTAPDBPOKZK2QELA",
-                       "name": "Planograma 7"
-                     },
-                     {
-                       "id": 8,
-                       "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%208.jpg?token=GHSAT0AAAAAACJUV2VZIHVQBY5WB5J7VBRMZK2QE3A",
-                       "name": "Planograma 8"
-                     },
-                     {
-                       "id": 9,
-                       "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%209.jpg?token=GHSAT0AAAAAACJUV2VYTOXSPBERFGV7D2NWZK2QFCA",
-                       "name": "Planograma 9"
-                     },
-                     {
-                       "id": 10,
-                       "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%2010.jpg?token=GHSAT0AAAAAACJUV2VZWZVFERH33H33QHZ6ZK2QFUA",
-                       "name": "Planograma 10"
-                     },
-                     {
-                       "id": 11,
-                       "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%2011.jpg?token=GHSAT0AAAAAACJUV2VY6UK3V7EUUUFOXPWEZK2QIYQ",
-                       "name": "Planograma 11"
-                     },
-                     {
-                       "id": 12,
-                       "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%2012.jpg?token=GHSAT0AAAAAACKF3OHAOCU67JE63CM3KWC2ZK2QJVQ",
-                       "name": "Planograma 12"
-                     },
-                     {
-                       "id": 13,
-                       "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%2013.jpg?token=GHSAT0AAAAAACKF3OHAAKCWOTD5JAQRQ7BOZK2QKCA",
-                       "name": "Planograma 13"
-                     },
-                     {
-                       "id": 14,
-                       "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%2014.jpg?token=GHSAT0AAAAAACKF3OHBICSCZURAW26YPNGQZK2QKJA",
-                       "name": "Planograma 14"
-                     },
-                     {
-                       "id": 15,
-                       "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%2015.jpg?token=GHSAT0AAAAAACKF3OHB2GCBVOQNQHPYB64WZK2QKOQ",
-                       "name": "Planograma 15"
-                     },
-                     {
-                       "id": 16,
-                       "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%2016.jpg?token=GHSAT0AAAAAACKF3OHBEZ26PEH6IJJ4ZGUOZK2QKVQ",
-                       "name": "Planograma 16"
-                     },
-                     {
-                       "id": 17,
-                       "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%2017.jpg?token=GHSAT0AAAAAACJUV2VZ5NS54JHQHTPMZSMWZK2QKPQ",
-                       "name": "Planograma 17"
-                     },
-                     {
-                       "id": 18,
-                       "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%2018.jpg?token=GHSAT0AAAAAACJUV2VYHZILGZXSY7R7QLVYZK2QKJQ",
-                       "name": "Planograma 18"
-                     },
-                     {
-                       "id": 19,
-                       "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%2019.jpg?token=GHSAT0AAAAAACJUV2VZJABBC3WWUMS6CQ5IZK2QKEA",
-                       "name": "Planograma 19"
-                     },
-                     {
-                       "id": 20,
-                       "image": "https://raw.githubusercontent.com/cheto-golden/AI-Concentration/main/Fotos%20Planogramas/Planograma%2020.jpg?token=GHSAT0AAAAAACJUV2VZNPYPAMV3TYYFEG42ZK2QJ5Q",
-                       "name": "Planograma 20"
-                     }
-                  ]
-}
                
